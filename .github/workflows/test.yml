@@ -1,5 +1,5 @@
-nane: test
-on: ( push ]
+name: test
+on: [ push ]
 
 jobs:
   test:
